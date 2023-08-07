@@ -1,1 +1,1 @@
-# The Repository contains the Snowy Rock file of challenges and writeup
+# The repository contains the Snowy Rock file attachments and writeup
