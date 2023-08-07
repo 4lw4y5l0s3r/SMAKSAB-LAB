@@ -5,4 +5,4 @@
 <img src=exiftool.png>
 <p> Karena file kevin.jpg merupakan file PNG, saya gunakan tools zsteg untuk mendapatkan flag dalam file tersebut dan <i> Voilaaa... </i> Saya berhasil mendapatkan flagnya. </p>
 
-<p><strong> LITCTF{3d_printing_is_cool} </strong></p>
+<p> Flag : <strong> LITCTF{3d_printing_is_cool} </strong></p>
