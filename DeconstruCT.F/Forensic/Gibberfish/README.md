@@ -1,1 +1,1 @@
-# This Repository contains the Gibberfish challenges like writeUp and file of challenges
+# This Repository contains the Gibberfish file of challenges writeup
