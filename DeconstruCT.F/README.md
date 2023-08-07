@@ -1,6 +1,6 @@
 # WriteUp of challenge DeconstruCT.F Competition
 
-<img src=deconstruCT.F.png>
+<img src=DeconstruCT.F.png>
 
 <p> The Event is starting Friday 04 August 2023, 15:07 WIB — Monday 07 August 2023, 03:07 WIB and organized by GDSCVIT </p>
 
