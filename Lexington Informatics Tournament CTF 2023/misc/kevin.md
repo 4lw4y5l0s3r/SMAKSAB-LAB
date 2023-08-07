@@ -1,4 +1,4 @@
-# misc, Kevin (Solved)
+# misc, kevin (Solved)
 
 <p> Pada Challenge kali ini, diberikan link URL sebuah website yang ketika dibuka berisikan background game among us dan sebuah foto seorang dengan nama file kevin.jpg. </p>
 <p> Karena deskripsi soal menyebutkan steganography, saya download file kevin.jpg tersebut di Kali Linux. Saat di cek metadata serta strings yang terdapat pada file kevin.jpg hasilnya adalah file tersebut merupakan file PNG dan bukan file JPG. </p>
