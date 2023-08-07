@@ -8,4 +8,6 @@
 
 <p> Sedikit tambahan, sebenarnya anda cukup menggunakan strings command jika menggunakan Linux untuk mendapatkan flag </p>
 
+<img src=strings.jpg>
+
 <p> Flag : <strong> dsc{h0wdy_c7f_h4ack3r5} </strong></p>
