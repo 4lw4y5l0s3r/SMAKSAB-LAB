@@ -12,4 +12,4 @@
 
 <p>Flag sudah berhasil didapatkan ? Jawabannya tidak hasil dari stegsnow command adalah encoding base32 dan ROT13, decode terlebih dahulu untuk mendapatkan flag </p>
 
-<p> Flag <strong> dsc{SnOw_rOcKs_fOr_r34l} </strong></p>
+<h3> Flag : <strong> dsc{SnOw_rOcKs_fOr_r34l} </strong></h3>
