@@ -1,4 +1,4 @@
-# Challenges Category Forensic DeconstruCT.F
+# Challenges Category Forensic Lexington Informatics Tournament CTF 2023
 
 <p> Pada challenges kategori Misc , SMAKSAB LAB berhasil solved 6 soal, berikut adalah daftar challenges Misc yang berhasil disolved </p>
 <li> HelloWorld (Solved) </li>
