@@ -10,4 +10,4 @@
 
 <img src=flag.png>
 
-<h3> Flag <strong> dsc{COrrupt3d_M4g1C_f1Ag} </strong></h3>
+<h3> Flag : <strong> dsc{COrrupt3d_M4g1C_f1Ag} </strong></h3>
