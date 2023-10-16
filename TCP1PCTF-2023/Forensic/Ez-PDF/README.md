@@ -14,7 +14,9 @@ Author : daffainfo
 
 <img src=2nd-flag.png>
 
-<p> After that, i use strings command to find interesting strings in pdf file and find obfuscated javascript code. I deobfuscated the javascript code with jsnice and cyberchef. Then i find var pdf function in javascript code with last flag. In this moment, i use 2 solution. The first solution is manually find the last flag format like strings} in pdf function javascript code and using logical thinking to align the text with the flags so it can be read </p>
+<p> After that, i use strings command to find interesting strings in pdf file and find obfuscated javascript code. I deobfuscated the javascript code with jsnice and cyberchef. Then i find var pdf function in javascript code with last flag. In this moment, i use 2 solution.  </p>
+
+<p> The first solution is manually find the last flag format like strings} in pdf function javascript code and using logical thinking to align the text with the flags so it can be read </p>
 
 <p> The second solution is running the javascript code using node emulator. Before that, you must input javascript code in file and change integer of variable var from 1 to zero. Use node file.js in linux to run the javascript code and find the last flag </p>
 
